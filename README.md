@@ -1,5 +1,5 @@
 # rock-paper-scissors-game
-Ini merupakan game gunting, kertas, batu sederhana dengan menggunakan Function dan Import module. Kode script.py berfungsi mengimpor modul utils dan random. Modul utils kemungkinan berisi fungsi yang digunakan dalam permainan, seperti validate, print_hand, dan judge. Modul random digunakan untuk menghasilkan pilihan tangan komputer secara acak.
+Proyek yang telah saya kerjakan ini merupakan game gunting, kertas, batu sederhana dengan menggunakan Function dan Import module. Kode script.py berfungsi mengimpor modul utils dan random. Modul utils kemungkinan berisi fungsi yang digunakan dalam permainan, seperti validate, print_hand, dan judge. Modul random digunakan untuk menghasilkan pilihan tangan komputer secara acak.
 
 Pertama, program mencetak pesan untuk memulai permainan dan meminta pemain untuk memasukkan nama mereka. Kemudian, program memasuki loop while yang akan terus berjalan sampai pemain memutuskan untuk berhenti bermain. Di dalam loop, program meminta pemain untuk memilih tangan mereka dengan memasukkan nomor antara 0-2, di mana 0 mewakili batu, 1 mewakili kertas, dan 2 mewakili gunting.
 
